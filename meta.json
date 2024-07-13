@@ -1,0 +1,26 @@
+[
+    {
+        "slug": "ultimate-guide-to-convert-nextjs-app-into-pwa",
+        "title": "Ultimate guide to convert your Next JS App into a Progressive Web App",
+        "img": "https://miro.medium.com/v2/resize:fit:1000/0*TMmvFXObXEKuOBBF.jpg",
+        "date": "July, 2024"
+    },
+    {
+        "slug": "how-i-created-uniport-ai-park",
+        "title": "Journey of Creating Uniport, a single port where users can seamlessly access and utilize various AI functionalities",
+        "img": "https://github.com/iAryanK/Uniport/raw/main/public/screenshots/landing.png?raw=true",
+        "date": "April, 2024"
+    },
+    {
+        "slug": "how-to-create-eyecatching-personal-portfolio",
+        "title": "How to create a personal portfolio website using Next JS, tailwind CSS, shadcn UI, aceternity UI and GSAP",
+        "img": "/images/portfolio-project.png",
+        "date": "May 2024"
+    },
+    {
+        "slug": "how-to-create-whatsapp-bulk-sms-sender-using-python",
+        "title": "How to create a highly efficient bulk message sender desktop application using python",
+        "img": "https://github.com/iAryanK/WhatsFlow/raw/main/screenshots/ui_light.png?raw=true",
+        "date": "June, 2023"
+    }
+]
