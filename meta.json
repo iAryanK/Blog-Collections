@@ -1,11 +1,5 @@
 [
     {
-        "slug": "ultimate-guide-to-convert-nextjs-app-into-pwa",
-        "title": "Ultimate guide to convert your Next JS App into a Progressive Web App",
-        "img": "https://miro.medium.com/v2/resize:fit:1000/0*TMmvFXObXEKuOBBF.jpg",
-        "date": "July, 2024"
-    },
-    {
         "slug": "how-to-create-eyecatching-personal-portfolio",
         "title": "How to create a personal portfolio website using Next JS, tailwind CSS, shadcn UI, aceternity UI and GSAP",
         "img": "/images/portfolio-project.png",
